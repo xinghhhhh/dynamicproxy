@@ -1,0 +1,4 @@
+# Project exclude paths
+/dynamic_001_static/target/
+/dynamic_002_jdk/target/
+/dynamic_003_cglib/target/
